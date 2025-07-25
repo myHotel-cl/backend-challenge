@@ -127,18 +127,17 @@ Ejemplo de salida esperada:
 
 Tu tarea como desarrollador/a es:
 
-1. Hacer un **fork** de este repositorio.
-2. Crear una rama llamada:
+1. Crear una rama llamada:
    ```
    hotfix/{tu-nombre}
    ```
-3. Identificar y corregir los errores que encuentres, **no tengas miedo de modificar todo aquello que creas conveniente, incluso refactorizar algunas partes** para de esa forma poder ayudar a Laura la dueña de la cadena hotelera.
+2. Identificar y corregir los errores que encuentres, **no tengas miedo de modificar todo aquello que creas conveniente, incluso refactorizar algunas partes** para de esa forma poder ayudar a Laura la dueña de la cadena hotelera.
 
-4. Por **cada error resuelto o modificación de logica**, deberás hacer un **commit independiente**, con un mensaje claro para poder comprender que se realizó.
+3. Por **cada error resuelto o modificación de logica**, deberás hacer un **commit independiente**, con un mensaje claro para poder comprender que se realizó.
 
-5. Al finalizar, crear una **pull request** contra la rama principal del proyecto, incluyendo un comentario final explicando brevemente los fixes realizados.
+4. Al finalizar, crear una **pull request** contra la rama principal del proyecto, incluyendo un comentario final explicando brevemente los fixes realizados.
 
-6. Envianos un mail a seleccion-ti@myhotel.cl con el link y toda la información que quieras.
+5. Envianos un mail a seleccion-ti@myhotel.cl con el link y toda la información que quieras.
 
 ---
 
